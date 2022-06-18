@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.Neamul{
+    color: orangered;
+}
+.half-width{
+    width: 40%;
+    float: left; /* divided the screen into two part*/
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
